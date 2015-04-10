@@ -5,3 +5,4 @@ Git tracks changes.
 Git new file.
 Git new file2.
 Git new file3.
+Git new file4.
